@@ -10,8 +10,8 @@
 // For each object, Profiles, Overlays (of channels and lines) and a Montage will be generated.
 
 // How to do  ?
-// First open your data as two independant image stacks and if not the case calibrate them.
-// Run the macro and folow the instructions.
+// First open your data as two independent image stacks and if not the case calibrate them.
+// Run the macro and follow the instructions.
 // The measurments are automatically saved in the image folder as .txt files.
 
 
